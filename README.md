@@ -31,6 +31,9 @@ Enter 5 integers:
 Array elements in reverse order:
 5 4 3 2 1
 ```
+
+### If you don't know how to have the user enter numbers to fill the array, uncomment the array initialization in the starter code and just print that array in reverse.
+
 ## Question 2
 Write a C++ program to find the sum and average of elements in a floating-point array. Prompt the user to enter the size of the array and the array elements.
 
